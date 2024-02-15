@@ -16,5 +16,11 @@ Hi there! 👋 I'm Kamal Singh, a passionate Computer Science Engineering studen
 - **Web Technologies:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub
 
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamkamalsingh&layout=compact&theme=radical)
+
+  ## GitHub Stats
+![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamkamalsingh&show_icons=true&theme=radical)
+
 ## Let's Connect!
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/itsmekamal/) for collaboration or discussions on anything related to software development, technology, or just to say hello!
