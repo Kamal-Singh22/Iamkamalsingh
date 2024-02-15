@@ -1,16 +1,20 @@
-### Hi there 👋
+## About Me
+Hi there! 👋 I'm Kamal Singh, a passionate Computer Science Engineering student currently pursuing my Bachelor's degree. My primary interests lie in the fields of software development and web development. I enjoy exploring new technologies, solving problems, and collaborating on projects that have a positive impact.
 
-<!--
-**Iamkamalsingh/Iamkamalsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Focus
+🔭 **Working on:**  
+- Improving my coding skills through personal projects and coursework.
+- Exploring different programming languages and frameworks.
 
-Here are some ideas to get you started:
+🌱 **Learning:**  
+- Data Structures and Algorithms to enhance my problem-solving abilities.
+- Web development technologies like HTML, CSS, JavaScript, and frameworks like React.
+- App development using Java 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python, Java, Kotlin
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub
+
+## Let's Connect!
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/itsmekamal/) for collaboration or discussions on anything related to software development, technology, or just to say hello!
