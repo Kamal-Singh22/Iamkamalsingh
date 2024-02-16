@@ -12,7 +12,7 @@ Hi there! 👋 I'm Kamal Singh, a passionate Computer Science Engineering studen
 - App development using Java 
 
 ## Skills
-- **Languages:** Python, Java, Kotlin
+- **Languages:** Python, Java, Kotlin, SQL,MongoDB
 - **Web Technologies:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub
 
