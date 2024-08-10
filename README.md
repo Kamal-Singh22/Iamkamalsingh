@@ -1,5 +1,5 @@
 ## About Me
-Hi there!  I'm Kamal Singh, a passionate Computer Science Engineering student currently pursuing my Bachelor's degree. My primary interests lie in the fields of software development and web development. I enjoy exploring new technologies, solving problems, and collaborating on projects that have a positive impact.
+Hi there!  I'm Kamal Singh, a passionate Computer Science Engineering student pursuing my Bachelor's degree. My primary interests lie in the fields of software development and web development. I enjoy exploring new technologies, solving problems, and collaborating on projects that have a positive impact.
 
 ## Current Focus
 🔭 **Working on:**  
@@ -12,7 +12,7 @@ Hi there!  I'm Kamal Singh, a passionate Computer Science Engineering student cu
 - App development using Java 
 
 ## Skills
-- **Languages:** Python, Java, Kotlin, SQL,MongoDB
+- **Languages:** Python, Java, Kotlin, SQL, MongoDB
 - **Web Technologies:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub
 
