@@ -8,7 +8,7 @@ Hi there!  I'm Kamal Singh, a passionate Computer Science Engineering student pu
 
 🌱 **Learning:**  
 - Data Structures and Algorithms to enhance my problem-solving abilities.
-- Web development technologies like HTML, CSS, JavaScript, and frameworks like React.
+- Web development technologies like HTML, CSS, JavaScript.
 - App development using Java 
 
 ## Skills
