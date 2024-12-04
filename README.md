@@ -17,13 +17,13 @@ Hi there!  I'm Kamal Singh, a passionate Computer Science Engineering student pu
 - **Tools:** Git, GitHub
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamkamalsingh&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamal-Singh22&layout=compact&theme=radical)
 
   ## GitHub Stats
-![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamkamalsingh&show_icons=true&theme=radical)
+![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamal-Singh22&show_icons=true&theme=radical)
 
 ## Let's Connect!
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/itsmekamal/) for collaboration or discussions on anything related to software development, technology, or just to say hello!
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/kamalsingh22/) for collaboration or discussions on anything related to software development, technology, or just to say hello!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Iamkamalsingh&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kamal-Singh22&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
