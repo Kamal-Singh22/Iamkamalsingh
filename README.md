@@ -27,6 +27,9 @@ Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/kama
 
 ##GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kamal-Singh22&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kamal-Singh22&theme=radical&hide_border=true)](https://streak-stats.demolab.com?user=Kamal-Singh22)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kamal-Singh22&theme=radical&hide_border=true)
+
 
 
 
