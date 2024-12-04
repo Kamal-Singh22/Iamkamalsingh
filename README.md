@@ -28,7 +28,8 @@ Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/kama
 ##GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kamal-Singh22&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamal-Singh22&show_icons=true&theme=radical)
+https://streak-stats.demolab.com?user=Kamal-Singh22&theme=radical&hide_border=true
+
 
 
 
