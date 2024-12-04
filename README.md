@@ -24,3 +24,6 @@ Hi there!  I'm Kamal Singh, a passionate Computer Science Engineering student pu
 
 ## Let's Connect!
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/itsmekamal/) for collaboration or discussions on anything related to software development, technology, or just to say hello!
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Iamkamalsingh&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
